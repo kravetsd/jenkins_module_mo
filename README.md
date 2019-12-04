@@ -5,7 +5,7 @@ Jenkins study program. Assignment,
 
 # Jenkins: assignment
 ## 1. Prepare tools and repositories for the module. 
-- create a git repository in Github/Gitlab/any. Let's name it "codeRepo". You are going to store the source code and unit tests there. [Here](https://github.com/wardviaene/docker-demo) or [here](codeRepo/README.md)  you can find (just clone it) the code, tests and Dockerfile for building your application docker image. Please watch Jenkins video course for more details on what is the code and what are those tests about.   
+- create a git repository in Github/Gitlab/any. Let's name it "codeRepo". You are going to store the source code and unit tests there. [Here](https://github.com/wardviaene/docker-demo) you can find (just clone it) the code, tests and Dockerfile for building your application docker image. Please watch Jenkins video course for more details on what is the code and what are those tests about.   
 - create a git repository in Github/Gitlab/any. Let's name it "cdRepo". This repository you are going to use for storing your Jenkinsfile, ansible playbook and Docker file.
 - create a docker hub registry to store your artifacts (your application's built image)
 
